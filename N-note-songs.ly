@@ -140,7 +140,7 @@ amazing_tune = {
       \vspace #1
     } }
     arranger = "Collected by Benjamin Smedberg"
-    tagline = ""
+    tagline = "Source code/pull requests at https://github.com/bsmedberg/N-note-songs"
   }
   \paper {
     #(set-paper-size "letter")
